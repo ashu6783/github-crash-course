@@ -9,6 +9,9 @@ function sayName() {
 function sayNamee() {
     console.log('my name is d ');
 }
+function sayNafmee() {
+    console.log('my name is d ');
+}
 function sayNamede() {
     console.log('my name is d ');
 }
