@@ -1,5 +1,5 @@
 const age=21
-const name='Ashutosh Gaurav'
+const name1='Ashutosh Gaurav'
 const dob='01/01/2002'
 const g='male'
 
@@ -14,4 +14,8 @@ function sayNamede() {
 }
 function saedyNamede() {
     console.log('my name is d ');
+}
+
+function isAbove18(age) {
+    return age>18
 }
